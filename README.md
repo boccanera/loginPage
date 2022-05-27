@@ -13,6 +13,6 @@ A partir disso o usuário pode entrar no site com usuário e senha já cadastrad
 à pagina de registrado com sucesso e é possível fazer o login clicando no link abaixo.
 
 **Tecnologias utilizadas:**
-Front end básico na página de login e registro HTML e CSS que peguei no https://www.codepen.io.
+Front end HTML e CSS.
 Código em Java, JPA.
 Framework Spring, Spring Web, data JPA, postgreSQL e thymeleaf.
