@@ -2,7 +2,7 @@
 Login page with Spring web, data JPA, postgreSQL e thymeleaf. 
 
 
-Página de login com Spring web, data JPA, postgreSQL e thymeleaf. 
+Página de login com Spring web, JPA, postgreSQL e thymeleaf. 
 
 **O que é?**
 Criação de Sign in e Sign up de usuários para o processo de seleção de trainee Best Minds 2022 - Pessoa Desenvolvedora Trainee. 
